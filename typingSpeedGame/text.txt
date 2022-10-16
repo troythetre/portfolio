@@ -1,0 +1,4 @@
+This is the CS 1010 intro to Computer Science class.
+In this class, we learned a lot of basic programming skills, including loop and recursion.
+I made a typing speed game program out of it as my final project.
+It displays the speed and accuracy of user's typing.
