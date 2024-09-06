@@ -11,6 +11,8 @@ Empowering Artists and Content creators with a mobile app that utilizes blockcha
 
 # Stock Option Simulator 
 
+I coded a stock option simulator in Python making use of numpy and MATLAB with the goal of developing an effective algorithm to analyze China's stock market and predict its future trends as accurately as possible.
+
 # Phased-Locked Loop
 
 As part of my IB extended essay, I developed a comprehensive analysis of nonlinear phase-locked loops using high-school calculus, going beyond the simplified linear analysis typically presented in university textbooks. I created a design procedure with optimal parameters to help novices build PLLs within specifications. This process was supported by a custom Python-based EDA tool I developed. The project was validated by constructing and testing a GPS local oscillator, demonstrating the effectiveness of the entire design chain.
