@@ -19,4 +19,7 @@ As part of my IB extended essay, I developed a comprehensive analysis of nonline
 
 As captain of the Varsity Basketball team of my high school, I created an analytic tool that collects season stats from gametape uploaded and displays the statistics in graphs to further allow coaches and players to reflect and improve their game. 
 
-# Logisitc Growth Model
+# Logistic Growth Model
+
+I created an improved logistic growth model that can be employed as an approach to help ecologists improve population model. Population control is crucial to prevent from further overpopulation in the Third World. Essentially, our society needs an appropriate tool or model to accurately evaluate and estimate the effectiveness of any control plan. The
+prevailing one is the logistic growth model. It must be constructive to the world if I could explore a way to enhance the estimation accuracy on this model or those inherited from it. Since China has the world's largest population (1.42 billion), followed by India (1.35 billion), they are my examples of exploration; we could also learn the effectiveness of their population control through the model.
