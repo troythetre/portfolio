@@ -8,3 +8,11 @@ An IOS app, aims to be a cultural hub for “the underground”, fostering creat
 # Splitz Stream App
 
 Empowering Artists and Content creators with a mobile app that utilizes blockchain technology for secure management, simplifying split sheets creation, copyright registration, music distribution, and payment collection.
+
+# Stock Option Simulator 
+
+# Phased-Locked Loop
+
+# High School Basketball Statistics Analysis Website
+
+# Logisitc Growth Model
