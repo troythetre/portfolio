@@ -13,6 +13,10 @@ Empowering Artists and Content creators with a mobile app that utilizes blockcha
 
 # Phased-Locked Loop
 
-# High School Basketball Statistics Analysis Website
+As part of my IB extended essay, I developed a comprehensive analysis of nonlinear phase-locked loops using high-school calculus, going beyond the simplified linear analysis typically presented in university textbooks. I created a design procedure with optimal parameters to help novices build PLLs within specifications. This process was supported by a custom Python-based EDA tool I developed. The project was validated by constructing and testing a GPS local oscillator, demonstrating the effectiveness of the entire design chain.
+
+# High School Varsity Basketball Statistics Analysis Website
+
+As captain of the Varsity Basketball team of my high school, I created an analytic tool that collects season stats from gametape uploaded and displays the statistics in graphs to further allow coaches and players to reflect and improve their game. 
 
 # Logisitc Growth Model
