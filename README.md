@@ -11,7 +11,7 @@ Empowering Artists and Content creators with a mobile app that utilizes blockcha
 
 # Stock Option Simulator 
 
-I coded a stock option simulator in Python making use of numpy and MATLAB with the goal of developing an effective algorithm to analyze China's stock market and predict its future trends as accurately as possible.
+Develop an options trading strategy based on the put-call parity theorem and leverage real-time market data for dynamic simulation. Perform comprehensive backtesting to assess the strategy's effectiveness and precisely measure gains and losses
 
 # Phased-Locked Loop
 
