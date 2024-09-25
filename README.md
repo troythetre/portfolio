@@ -23,4 +23,4 @@ As captain of the Varsity Basketball team of my high school, I created an analyt
 
 # Logistic Growth Model
 
-Develop an options trading strategy based on the put-call parity theorem and leverage real-time market data for dynamic simulation. Perform comprehensive backtesting to assess the strategy's effectiveness and precisely measure gains and losses
+As the captain of my high school basketball team, I created a game-changing tool that collects season stats from interactive replays of game videos. It analyzed and visualized the statistics, providing my coach with valuable insights for training players and strategizing the team. The program is written in HTML and JavaScript, allowing my coach to run it offline in any browser, anytime and anywhere.
