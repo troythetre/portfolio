@@ -23,4 +23,4 @@ As captain of the Varsity Basketball team of my high school, I created an analyt
 
 # Logistic Growth Model
 
-Develop an options trading strategy based on the put-call parity theorem and leverage real-time market data for dynamic simulation. Perform comprehensive backtesting to assess the strategy's effectiveness and precisely measure gains and losses
+Witnessing poverty firsthand during my high school field trip, I realized that improper population control leads to misery. However, the logistic population model lacks sufficient accuracy, and the difficulty of solving differential equations hinders scientists from making progress. I applied my novel method to solve general Nth-order nonlinear differential equations, demonstrating a process that effectively overcomes these limitations and enables scientists to improve their models. This process is also extendable to other scientific fields.
