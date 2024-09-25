@@ -19,8 +19,8 @@ As part of my IB extended essay, I developed a comprehensive analysis of nonline
 
 # High School Varsity Basketball Statistics Analysis Website
 
-As captain of the Varsity Basketball team of my high school, I created an analytic tool that collects season stats from gametape uploaded and displays the statistics in graphs to further allow coaches and players to reflect and improve their game. 
+As the captain of my high school basketball team, I created a game-changing tool that collects season stats from interactive replays of game videos. It analyzed and visualized the statistics, providing my coach with valuable insights for training players and strategizing the team. The program is written in HTML and JavaScript, allowing my coach to run it offline in any browser, anytime and anywhere.
 
 # Logistic Growth Model
 
-As the captain of my high school basketball team, I created a game-changing tool that collects season stats from interactive replays of game videos. It analyzed and visualized the statistics, providing my coach with valuable insights for training players and strategizing the team. The program is written in HTML and JavaScript, allowing my coach to run it offline in any browser, anytime and anywhere.
+Witnessing poverty firsthand during my high school field trip, I realized that improper population control leads to misery. However, the logistic population model lacks sufficient accuracy, and the difficulty of solving differential equations hinders scientists from making progress. I applied my novel method to solve general Nth-order nonlinear differential equations, demonstrating a process that effectively overcomes these limitations and enables scientists to improve their models. This process is also extendable to other scientific fields.
