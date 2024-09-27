@@ -9,7 +9,7 @@ An IOS app, aims to be a cultural hub for “the underground”, fostering creat
 
 Empowering Artists and Content creators with a mobile app that utilizes blockchain technology for secure management, simplifying split sheets creation, copyright registration, music distribution, and payment collection.
 
-# Stock Option Simulator 
+# Shanghai Runchi Investment Fund: Stock Option Simulator 
 
 Develop an options trading strategy based on the put-call parity theorem and leverage real-time market data for dynamic simulation. Perform comprehensive backtesting to assess the strategy's effectiveness and precisely measure gains and losses
 
