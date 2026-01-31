@@ -1,7 +1,0 @@
-.input::after {
-    border-bottom: none;
-    left: 0;
-    bottom: 0;
-    content: "";
-    position: absolute;
-}
