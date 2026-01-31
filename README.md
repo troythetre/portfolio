@@ -13,7 +13,6 @@ This portfolio contains selected **projects, research, and applications** demons
 A mobile application enabling college students to design personalized workout and diet plans, with a focus on **structured data models and future personalization workflows**.
 
 **Tech:** Swift, iOS  
-🔗 GitHub: https://github.com/brandonholmes/Fall2024-CMSI4071-Group14.git
 
 ---
 
@@ -21,11 +20,10 @@ A mobile application enabling college students to design personalized workout an
 An iOS application built as a cultural platform for independent creatives, emphasizing **community-driven content, media discovery, and engagement**.
 
 **Tech:** Swift, iOS, Backend APIs  
-🔗 GitHub: https://github.com/troythetre/CMSI-4072-SeniorProject-II-Archived.git
 
 ---
 
-## Splitz Stream App
+## Splitz App
 A mobile platform supporting artists and content creators with tools for:
 - Secure split sheet creation  
 - Copyright registration  
@@ -33,7 +31,7 @@ A mobile platform supporting artists and content creators with tools for:
 - Blockchain-based payment workflows
 - user-streaming service/social applications connection via Phyllo
 
-**Tech:** Mobile Development, Blockchain, Backend Services  
+**Tech:** Mobile Development, Blockchain, Backend Services, TypeScript, ReactNative, React  
 
 ---
 
@@ -71,4 +69,4 @@ The methodology is extendable to other scientific and modeling domains.
 ---
 
 ## 📌 Notes
-Some internship and company projects are **private** due to
+Some internship and company projects are **private** 
