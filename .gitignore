@@ -3,3 +3,9 @@
 !*package.json
 !*tsconfig.json
 !*staticwebapp.config.json
+
+# Secrets (DO NOT COMMIT)
+*.json
+!package.json
+!tsconfig.json
+!staticwebapp.config.json
