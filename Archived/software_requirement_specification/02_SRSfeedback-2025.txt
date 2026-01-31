@@ -1,0 +1,72 @@
+
+New Individual Project
+Documentation Feedback ~ Deliverable #2
+Software Requirements Specification &
+   Initial Development Schedule
+CMSI 4072 Spring 2025
+=======================================
+
+COMPONENT BREAKDOWN:
+   Not required for this semester's exercise
+
+FUNCTIONAL REQUIREMENTS:
+   You need to treat these requirements as numbered 'shall' statements, Troy.
+   Your requirements need to be broken into smaller parts, too.  Requirement
+   5.2.1, for example is actually eleven separate requirements that you have
+   lumped all together into a paragraph without a single 'shall' in it.  You
+   can't have that in a requirements document, since there is no way to test
+   it reliably.  You must re-work all of these and re-submit the document.
+
+   Feel free to come see me during office hours if you need more information
+   about this.
+
+PERFORMANCE REQUIREMENTS:
+   Same as above.
+
+ENVIRONMENT REQUIREMENTS:
+   Same as above.
+
+OVERALL ASSESSMENT:
+   Category                          Points
+   Component Breakdown                 2/2
+   Functional Requirements             2/5
+   Performance Requirements            1/2
+   Environment Requirements            1/1
+                                     =====
+   Subtotal                           6/10
+   ------------------------------------------------------
+   Total Percentage:   6/10 = 60% which is a D
+
+
+You have a good start on this document.  Re-work the statements and re-submit
+by the end of the semester for full credit on this deliverable.
+
+----------------------------------------------------------------------------
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+----------------------------------------------------------------------------
+
+Documentation Feedback ~ Deliverable #5
+Software Requirements Specification Complete
+============================================
+
+OVERALL ASSESSMENT:
+           Category                                Points
+   Comments from first submission incorporated       8/8
+   Spelling and Grammar in document acceptable       2/2
+                                                   =====
+   Subtotal                                        10/10
+   ------------------------------------------------------
+   Total Percentage:   10/10 = 100% which is an A-plus
+
+OK, you re-wrote this in the form of Agile requirements for the most part.
+It looks better, but you didn't do it for ALL of the requirements, and you
+didn't follow all three parts of the Agile Requirement Format.  Plus, you
+still need to have 'acceptance criteria' for them.  It should look like:
+
+   5.2.2.11 AS A user, I WANT TO purchase a beat SO THAT I can use it myself.
+            Acceptance criteria: user can purchase a beat using PayPal.
+            Acceptance criteria: user can purchase a beat using Venmo.
+            [or whatever payment method you'll use]
+
+You re-wrote some of them, but not all, but you at least made the effort.

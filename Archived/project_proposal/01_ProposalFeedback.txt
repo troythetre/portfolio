@@ -1,0 +1,29 @@
+CMSI 4072 Spring 2025
+Project Proposal Feedback
+Project: Archived
+=========================
+Proposal Document [2 points]:
+   This is interesting, Troy.  I had no idea what a 'beat' is until I read
+   your proposal.  It made me want to do some research to find out more!  I
+   like the way you have laid out the description of your project in the
+   document, and your justification section is spot-on.
+
+   Great!
+
+Proposal Presentation [3 points]:
+   Nice job on the presentation Troy!  I like the slides, the template you
+   used is really cool.  You have good graphics in there.  The slides have
+   completely described your project and I like the user interface you have
+   shown.  The purpose and justification are good, and you have describied
+   what you are implementing very well from the user's standpoint.
+
+   With this much work put in already, it looks like this project has a good
+   chance of being successful and also being monetized and making a start up
+   happen.  You should make some time to visit with John Zimmerman when he
+   visits us next month!
+
+Summary:
+--------
+Total:  5% out of 5% for this deliverable.
+
+Nice job overall!  Great start to the semester so keep up the good work.
