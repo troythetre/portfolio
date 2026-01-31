@@ -1,33 +1,74 @@
-# Troy's Technical Portfolio
-includes programs and papers written by Troy
+# Troy Wu — Technical Portfolio
 
-# MyCampusGym
-An user-friendly mobile application enabling college students to design personalized workout and diet plans, promoting healthier campus communities
+I am a **Computer Science M.Eng student at Cornell University** with experience in **backend systems, data engineering, and applied machine learning**.  
+This portfolio contains selected **projects, research, and applications** demonstrating my work across software engineering, analytics, and modeling systems.
 
-link to github repo: https://github.com/brandonholmes/Fall2024-CMSI4071-Group14.git 
+📍 Ithaca, NY  
+🔗 GitHub: https://github.com/troythetre  
+🔗 LinkedIn: https://www.linkedin.com/in/wu-troy  
 
-# Archived
+---
 
-An IOS app, aims to be a cultural hub for “the underground”, fostering creative and intellectual exchanges of thought among users and creators. The Archive IOS app promotes three main pillars, the “3 C’s”: creativity, community, and content. Archived understands the importance of creative material, notably music and clothing, so we provide a platform for creatives, regardless of size and popularity, to impact underground culture. The longevity of the underground is dependent upon community-building and social engagement; therefore our app provides an ideal space for individuals to find like-minded communities and exchange personal thoughts with the world. Artists and underground content do not typically reach traditional news organizations, so our app capitalizes on these underrepresented creatives via independent journalism, social media, and other non-traditional methods.
+## MyCampusGym
+A mobile application enabling college students to design personalized workout and diet plans, with a focus on **structured data models and future personalization workflows**.
 
-link to github repo: https://github.com/troythetre/CMSI-4072-SeniorProject-II-Archived.git
+**Tech:** Swift, iOS  
+🔗 GitHub: https://github.com/brandonholmes/Fall2024-CMSI4071-Group14.git
 
-# Splitz Stream App
+---
 
-Empowering Artists and Content creators with a mobile app that utilizes blockchain technology for secure management, simplifying split sheets creation, copyright registration, music distribution, and payment collection.
+## Archived (iOS App)
+An iOS application built as a cultural platform for independent creatives, emphasizing **community-driven content, media discovery, and engagement**.
 
-# Shanghai Runchi Investment Fund: Stock Option Simulator 
+**Tech:** Swift, iOS, Backend APIs  
+🔗 GitHub: https://github.com/troythetre/CMSI-4072-SeniorProject-II-Archived.git
 
-Develop an options trading strategy based on the put-call parity theorem and leverage real-time market data for dynamic simulation. Perform comprehensive backtesting to assess the strategy's effectiveness and precisely measure gains and losses
+---
 
-# Phased-Locked Loop
+## Splitz Stream App
+A mobile platform supporting artists and content creators with tools for:
+- Secure split sheet creation  
+- Copyright registration  
+- Music distribution  
+- Blockchain-based payment workflows
+- user-streaming service/social applications connection via Phyllo
 
-As part of my IB extended essay, I developed a comprehensive analysis of nonlinear phase-locked loops using high-school calculus, going beyond the simplified linear analysis typically presented in university textbooks. I created a design procedure with optimal parameters to help novices build PLLs within specifications. This process was supported by a custom Python-based EDA tool I developed. The project was validated by constructing and testing a GPS local oscillator, demonstrating the effectiveness of the entire design chain.
+**Tech:** Mobile Development, Blockchain, Backend Services  
 
-# High School Varsity Basketball Statistics Analysis Website
+---
 
-As the captain of my high school basketball team, I created a game-changing tool that collects season stats from interactive replays of game videos. It analyzed and visualized the statistics, providing my coach with valuable insights for training players and strategizing the team. The program is written in HTML and JavaScript, allowing my coach to run it offline in any browser, anytime and anywhere.
+## 📈 Stock Options Simulation — Shanghai Runchi Investment Fund
+Developed an options trading simulator based on **put–call parity**, integrating real-time market data and backtesting to evaluate strategy performance under varying market conditions.
 
-# Logistic Growth Population Model
+**Tech:** Python, Financial Modeling, Time-Series Analysis
 
-Witnessing poverty firsthand during my high school field trip, I realized that improper population control leads to misery. However, the logistic population model lacks sufficient accuracy, and the difficulty of solving differential equations hinders scientists from making progress. I applied my novel method to solve general Nth-order nonlinear differential equations, demonstrating a process that effectively overcomes these limitations and enables scientists to improve their models. This process is also extendable to other scientific fields.
+---
+
+## Phase-Locked Loop (PLL) Research
+Conducted an in-depth analysis of **nonlinear phase-locked loops**, extending beyond standard linear textbook models.  
+Developed:
+- An optimal PLL design procedure  
+- A custom Python-based EDA tool  
+- A validated GPS local oscillator implementation  
+
+**Tech:** Python, Signal Processing, Applied Mathematics
+
+---
+
+## Basketball Statistics Analysis Tool
+Built an offline-capable web application to extract and visualize player statistics from interactive game replays, supporting data-driven coaching decisions.
+
+**Tech:** HTML, JavaScript
+
+---
+
+## Logistic Growth Population Model
+Proposed a novel approach to solving **Nth-order nonlinear differential equations**, improving the accuracy and usability of logistic population models.  
+The methodology is extendable to other scientific and modeling domains.
+
+**Tech:** Applied Mathematics, Python
+
+---
+
+## 📌 Notes
+Some internship and company projects are **private** due to
