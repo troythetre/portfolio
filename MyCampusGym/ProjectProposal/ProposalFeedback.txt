@@ -1,0 +1,30 @@
+CMSI 4071 Fall 2024
+Project Proposal Feedback
+Project: MyCampusGym
+=========================
+Proposal Document [2 points]:
+Nice job on the document.  I like the description, and having an application
+which will help with keeping track of workouts can be a motivator for those
+of us who tend to be a bit inconsistent about working out.  The check-in and
+geo features are cool ideas, as is the discussion board!
+
+The justification section is good, since it states the things you'll all be
+working with and the goals of what you will do with each and what you will
+get out of each.
+
+Proposal Presentation [3 points]:
+Nice job on the proposal.  You all had a voice and the presentation was very
+smooth.  You answered the questions well and faced the room, not the slides,
+so we felt engaged.
+
+My one suggestion is that a couple of the slides seemed a bit 'dense' with
+too much text.  Try to make fewer bullets per slide and talk about each a
+bit more rather than putting everything on the slides.  The audience will
+remember what you said by looking at a few bullets as reminders instead of
+trying to finish reading everything on the slides.
+
+Summary:
+--------
+Total:  5% out of 5% for this deliverable.
+
+Nice job overall!  Keep up the good work.

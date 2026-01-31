@@ -1,0 +1,38 @@
+
+
+HW 2 - Piloni & Miles Textbook
+CMSI 4071 Fall 2024
+
+Category        Weight     Earned
+===========    ========    ======
+Problem 1      [3 pts.]      3.0
+Problem 2      [4 pts.]      4.0
+Problem 3      [6 pts.]      6.0
+Problem 4      [9 pts.]      9.0
+Problem 5      [2 pts.]      2.0
+Problem 6      [7 pts.]      7.0
+Problem 7      [1 pt.]       1.0
+Problem 8      [3 pts.]      3.0
+Problem 9      [5 pts.]      5.0
+Problem 10     [4 pts.]      4.0
+
+      Subtotal [44 max]     44.0
+             Your Total     44.0
+
+         Letter grade   A-plus
+======================================
+COMMENTS:
+
+good point about smaller user stories meaning quicker delivery of working
+software to the customer ~ good reason to make sure your user stories are on
+the small side.  What about if the estimate itself is wrong, giving a false
+idea on the size of the user story?  Something to consider.....
+
+is 'homebrew' a build tool or an installation tool?  I haven't used it too
+much, so I don't know, but it seems like it is most useful when installing a
+piece of software that is needed for something you are building, but then it
+has done its job once that software is installed...
+
+just wondering!
+
+nice work!

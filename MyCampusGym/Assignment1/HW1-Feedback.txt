@@ -1,0 +1,31 @@
+
+Essay Feedback
+Homework Assignment #1
+CMSI 4071 Fall 2024
+======================
+
+SUMMARY:
+   Good summary of the article.  Scary stuff, and I can see why you three
+   are interested since Garmin also deals with workouts as well as guidance.
+
+CRITICAL THINKING:
+   Relation to S/W engineering:
+      Excellent points about user and application security.  I look forward
+      to seeing how you incorporate these ideas into MyCampusGym.
+
+   Thoughts/opinions presented:
+      Nice work on this part ~ looks like this opened your eyes a bit wider!
+
+OVERALL ASSESSMENT:
+   Category                          Points
+   Summary of article                  25
+   Relation to S/W engineering         25
+   Thoughts/opinions presented         25
+   Spelling/Grammar                    25
+                                     -----
+   Subtotal                           100
+   ------------------------------------------------------
+   Total Percentage:   100 out of 100 which is an A-plus
+
+Good job on this assignment!
+

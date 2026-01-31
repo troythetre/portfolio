@@ -1,0 +1,57 @@
+
+Documentation Feedback ~ Deliverable #4
+Software Design Document ~ Detailed Design
+CMSI 4071 Fall 2024
+==========================================
+
+DETAILED CSC AND CSU DESCRIPTIONS:
+   Well done on this section ~ nothing to add here.
+
+DETAILED CLASS DESCRIPTIONS:
+   Adequate job on this section ~ nothing to add here.
+   Note that usually in this kind of description, there is more of a list of
+   the parts with individual descriptions.  For example, you list the method
+   for creating a new feed conversation, but you don't say its name or its
+   arguments.  This would be something that is typical in a detailed design.
+
+DETAILED INTERFACE DESCRIPTIONS:
+   Good descriptions of what parts interact with what other parts ~ nothing
+   to add here.
+
+DETAILED DATA STRUCTURE DESCRIPTIONS:
+   Since your data structures are all part of swift, there is no need for a
+   detailed section here, although it would be normal to define a bit more
+   than simply "swift UI"...  Nothing to add here.
+
+DETAILED DESIGN DIAGRAMS:
+   The diagrams are colorful, but I'm not sure exactly what I'm looking at.
+   It would be helpful, perhaps, to expand the diagrams a bit and label the
+   arrows and connecting lines so that the associations and interactions can
+   be understood.
+
+DATABASE DESIGN AND DESCRIPTION:
+   If you have a database, you need to specify the database design.  Saying
+   the design 'is to be implemented' is kind of kicking the can down the
+   road, so to speak.
+   This really should be an "Entity-Relationship Diagram" or "ERD".  However
+   since we are close to the end of the semester, I'm not going to make you
+   do this part again.  The verbal descriptions are pretty good, since you
+   talk about what the entities [tables] will be.
+   In the "real" world, you'll have to have this as part of the document.
+
+----------------------------------------------
+OVERALL ASSESSMENT:
+   Category                          Points
+   CSC/CSU Descriptions:                2 of  2
+   Class Descriptions:                  3 of  3
+   Interface Descriptions:              3 of  3
+   Data structure Descriptions:         1 of  1
+   Design diagrams:                     3 of  4
+   Database design/descriptions:        1 of  2
+                                     ===========
+   Subtotal                            13 of 15
+   ------------------------------------------------------
+   Total Percentage:  13/15 = 86.67% which is a B-plus
+
+
+

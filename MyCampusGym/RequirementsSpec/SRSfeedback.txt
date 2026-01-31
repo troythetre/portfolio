@@ -1,0 +1,48 @@
+
+Documentation Feedback ~ Deliverable #2
+Software Requirements Specification
+Initial Development Schedule
+CMSI 4071 Fall 2024
+=======================================
+
+COMPONENT BREAKDOWN:
+   Awesome job on the agile requirements!  You broke it down perfectly and
+   everything there looks good.
+
+FUNCTIONAL REQUIREMENTS:
+   Although this is in agile form, you should still label the functional
+   requirements as such.  Same with the performance and environmental ones.
+
+   This looks like you have ONLY functional requirements.  You still need to
+   have some performance and environment requirements.  Even though an agile
+   spec is easier to write, that doesn't mean it's easier because you are
+   skipping these details, it just means easier because the *language* isn't
+   quite so specific.
+
+   The requirements you have look about right in terms of specifying the way
+   the product will work, but you can always add more as the development
+   proceeds and new things get uncovered.
+
+PERFORMANCE REQUIREMENTS:
+   Not done.
+
+ENVIRONMENT REQUIREMENTS:
+   Not done.
+
+
+OVERALL ASSESSMENT:
+   Category                          Points
+   Component Breakdown                 1/1
+   Functional Requirements             4/4
+   Performance Requirements            0/2
+   Environment Requirements            0/1
+                                     =====
+   Subtotal                            5/8
+   Preliminary Schedule                2/2
+   ------------------------------------------------------
+   Total Percentage:   7/10 = 70% which is a c
+
+Get those other two sections completed and labeled as described above, and
+committed by the end of the semester for full credit on this document.
+
+Excellent work so far ~ keep it up!

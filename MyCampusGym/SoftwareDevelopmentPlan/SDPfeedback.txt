@@ -1,0 +1,42 @@
+
+Documentation Feedback ~ Deliverable #3
+Software Development Plan
+CMSI 4071 Fall 2024
+=======================================
+Not a bad job on this document.  All the parts are there, but I saw some
+places where there is internally redundant information.  There are also a
+couple of spelling errors that you might want to track down, such as using
+"Tory" for "Troy"....
+
+The other thing is, the Table of Contents should be at the top of the file,
+not at the bottom...
+
+INTRODUCTION/DELIVERABLES SECTION:
+   Excellent job here, nothing to add except check per the above.
+
+PROJECT RESOURCES SECTION:
+   Excellent job here, nothing to add except check per the above.
+
+PROJECT ORGANIZATION SECTION:
+   Excellent job here, nothing to add except check per the above.
+
+PROJECT SCHEDULE SECTION:
+   Excellent job here, nothing to add except check per the above.
+
+
+OVERALL ASSESSMENT:
+   Category                          Points
+   Project Deliverables               1.0
+   Project Resources                  1.0
+   Project Organization               1.0
+   Project Schedule                   2.0
+                                     =====
+   Subtotal                           5.0
+   ------------------------------------------------------
+   Total Percentage:   5.0/5.0 = 100% which is an A-plus
+
+Full credit on the document for its content, but make those changes as have
+been specified above by the end of the semester for full credit on the whole
+document submission.
+
+Nice work!
