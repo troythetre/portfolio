@@ -1,0 +1,43 @@
+
+Evaluation and Feedback
+CMSI 4072 project ~ Spring 2023
+Evaluation for homework03
+====================================
+
+7-1  Fix comments for Euclid's Algorithm        5 out of 5 points
+7-2  Two conditions for bad comments            4 out of 4 points
+7-4  Apply offensive programming ex.3           5 out of 5 points
+7-5  Should you add error handling?             4 out of 4 points
+7-7  Top-down drive to market / assumptions     5 out of 5 points
+8-1  Implementation of IsRelativelyPrime        5 out of 5 points
+8-3  Which testing methods used in 8-1 [gimme]  5 out of 5 points
+8-5  Implementation of AreRelativelyPrime       4 out of 4 points
+8-9  Exhaustive is black/white/gray & why       4 out of 4 points
+8-11 Lincoln estimate / number bugs             4 out of 5 points
+8-12 Lincoln estimate no common bugs            4 out of 4 points
+
+Total possible score: 50 points
+============================================================================
+
+Your score: 49 out of 50 = 98% which is an A-plus
+
+Comments/feedback:
+
+problem 7-1, all you need to do is include a link to the wikipedia page, and
+   then you can delete all the rest of the comments which become redundant.
+   Good catch on the corrections to the code!
+
+problem 8-11, the Lincoln index works on PAIRS, so you have three different
+   calculations that must be averaged:
+
+      Testing the three different Lincoln indexes:
+      Alice/Bob 5*4/2 =10
+      Alice/Carmen 5*5/2 = 12.5
+      Bob/Carmen 4*5/1 = 20
+      To estimate the bug you could take the average of the three.
+      In this case, there are 14 bugs.
+
+   Interesting equation you derived, though!  Also, interesting and thorough
+   analysis of your results!  Well done!
+
+You earned 98% of 11 points which is 10.78 extra credit points.
