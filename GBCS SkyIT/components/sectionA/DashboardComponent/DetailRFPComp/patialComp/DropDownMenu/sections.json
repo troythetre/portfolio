@@ -1,0 +1,236 @@
+{
+    "sections": [
+        {
+            "isDeleted": {
+                "deletionDate": null,
+                "deletedBy": null,
+                "status": false
+            },
+            "questions": [],
+            "sectionID": "Section1",
+            "sectionType": "Title Page",
+            "content": "Content of the title page section"
+        },
+        {
+            "isDeleted": {
+                "deletionDate": "",
+                "deletedBy": "",
+                "status": false
+            },
+            "questions": [
+                "Question1",
+                "Question3",
+                "Question4"
+            ],
+            "sectionID": "Section2",
+            "sectionType": "Table of Contents",
+            "content": "Content of the table of contents section"
+        },
+        {
+            "isDeleted": {
+                "deletionDate": "",
+                "deletedBy": "",
+                "status": false
+            },
+            "sectionTitle": "New 2 Cover",
+            "questions": [],
+            "sectionID": "Section3",
+            "sectionType": "Cover",
+            "content": ""
+        },
+        {
+            "isDeleted": {
+                "deletionDate": "",
+                "deletedBy": "",
+                "status": false
+            },
+            "sectionTitle": "New 2 Cover",
+            "questions": [
+                "Question2"
+            ],
+            "sectionID": "Section4",
+            "sectionType": "Cover",
+            "content": ""
+        },
+        {
+            "isDeleted": {
+                "deletionDate": "",
+                "deletedBy": "",
+                "status": false
+            },
+            "sectionTitle": "New 2 Cover",
+            "questions": [],
+            "sectionID": "Section5",
+            "sectionType": "Cover",
+            "content": ""
+        },
+        {
+            "isDeleted": {
+                "deletionDate": "",
+                "deletedBy": "",
+                "status": false
+            },
+            "sectionTitle": "New 2 Cover",
+            "questions": [],
+            "sectionID": "Section6",
+            "sectionType": "Cover",
+            "content": ""
+        },
+        {
+            "isDeleted": {
+                "deletionDate": "",
+                "deletedBy": "",
+                "status": false
+            },
+            "sectionTitle": "New 2 Cover",
+            "questions": [],
+            "sectionID": "Section7",
+            "sectionType": "Cover",
+            "content": ""
+        },
+        {
+            "isDeleted": {
+                "deletionDate": "",
+                "deletedBy": "",
+                "status": false
+            },
+            "sectionTitle": "New 2 Cover",
+            "questions": [],
+            "sectionID": "Section8",
+            "sectionType": "Cover",
+            "content": ""
+        },
+        {
+            "isDeleted": {
+                "deletionDate": "",
+                "deletedBy": "",
+                "status": false
+            },
+            "sectionTitle": "New 2 Cover",
+            "questions": [],
+            "sectionID": "Section9",
+            "sectionType": "Cover",
+            "content": ""
+        },
+        {
+            "isDeleted": {
+                "deletionDate": "",
+                "deletedBy": "",
+                "status": false
+            },
+            "sectionTitle": "New 2 Cover",
+            "questions": [],
+            "sectionID": "Section10",
+            "sectionType": "Cover",
+            "content": ""
+        },
+        {
+            "isDeleted": {
+                "deletionDate": "",
+                "deletedBy": "",
+                "status": false
+            },
+            "sectionTitle": "New 2 Cover",
+            "questions": [],
+            "sectionID": "Section11",
+            "sectionType": "Cover",
+            "content": ""
+        },
+        {
+            "isDeleted": {
+                "deletionDate": "",
+                "deletedBy": "",
+                "status": false
+            },
+            "sectionTitle": "New 2 Cover",
+            "questions": [],
+            "sectionID": "Section12",
+            "sectionType": "Cover",
+            "content": ""
+        },
+        {
+            "isDeleted": {
+                "deletionDate": "",
+                "deletedBy": "",
+                "status": false
+            },
+            "sectionTitle": "New 2 Cover",
+            "questions": [],
+            "sectionID": "Section13",
+            "sectionType": "Cover",
+            "content": ""
+        },
+        {
+            "isDeleted": {
+                "deletionDate": "",
+                "deletedBy": "",
+                "status": false
+            },
+            "sectionTitle": "New 2 Cover",
+            "questions": [],
+            "sectionID": "Section14",
+            "sectionType": "Cover",
+            "content": ""
+        },
+        {
+            "isDeleted": {
+                "deletionDate": "",
+                "deletedBy": "",
+                "status": false
+            },
+            "sectionTitle": "New 2 Cover",
+            "questions": [],
+            "sectionID": "Section15",
+            "sectionType": "Cover",
+            "content": ""
+        },
+        {
+            "isDeleted": {
+                "deletionDate": "",
+                "deletedBy": "",
+                "status": false
+            },
+            "sectionTitle": "New 2 Cover",
+            "questions": [],
+            "sectionID": "IVuqWC",
+            "sectionType": "Cover",
+            "content": ""
+        },
+        {
+            "isDeleted": {
+                "deletionDate": "",
+                "deletedBy": "",
+                "status": false
+            },
+            "sectionTitle": "New 2 Cover",
+            "questions": [],
+            "sectionID": "Pd26-5",
+            "sectionType": "Cover",
+            "content": ""
+        },
+        {
+            "isDeleted": {
+                "deletionDate": "",
+                "deletedBy": "",
+                "status": false
+            },
+            "sectionTitle": "New 2 Cover",
+            "questions": [],
+            "sectionID": "oNktv6",
+            "sectionType": "Cover",
+            "content": ""
+        },
+        {
+            "isDeleted": {
+                "deletionDate": "",
+                "deletedBy": "",
+                "status": false
+            },
+            "sectionTitle": "New 2 Cover",
+            "questions": [],
+            "sectionID": "uv8nlu",
+            "sectionType": "Cover",
+            "content": ""
+        }
+    ]
+}

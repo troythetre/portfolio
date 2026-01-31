@@ -1,0 +1,40 @@
+# Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
+# More GitHub Actions for Azure: https://github.com/Azure/actions
+
+name: Build and deploy Voop
+
+on:
+  push:
+    branches:
+      - frontend-dev--
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: windows-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      #- name: Remove artifacts
+      #uses: c-hive/gha-remove-artifacts@v1.2.0
+      #with:
+      #age : '1 hour'
+
+      - name: Set up Node.js version
+        uses: actions/setup-node@v1
+        with:
+          node-version: "18.x"
+
+      - name: npm install, build, and test
+        run: |
+          npm install
+          npm run build-export --if-present
+
+      - name: "Deploy to Azure Web App"
+        uses: azure/webapps-deploy@v2
+        with:
+          app-name: "voop"
+          slot-name: "production"
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_55D74D875EDE419AA2C1B9BC3DCE34D0 }}
+          package: out

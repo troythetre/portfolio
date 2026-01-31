@@ -1,0 +1,62 @@
+name: Azure Static Web Apps CI/CD
+
+on:
+  push:
+    branches:
+      - frontend-dev
+  pull_request:
+    types: [opened, synchronize, reopened, closed]
+    branches:
+      - frontend-dev
+
+jobs:
+  build_and_deploy_job:
+    if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
+    runs-on: ubuntu-latest
+    name: Build and Deploy Job
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true
+          lfs: false
+          persist-credentials: false
+
+      - name: Fix .git permissions and remove extraheader
+        run: |
+          sudo chown -R $(whoami):$(whoami) .git
+          sudo chmod -R u+rwX .git
+          find . -type d -name ".git" | while read gitdir; do
+            sudo chown -R $(whoami):$(whoami) "$gitdir"
+            sudo chmod -R u+rwX "$gitdir"
+          done
+          find . -type f -name "config" -path "*/.git/config" | while read gitconfig; do
+            sudo chown $(whoami):$(whoami) "$gitconfig"
+            sudo chmod u+rw "$gitconfig"
+          done
+          sleep 2
+          sudo git config --global --unset-all http.https://github.com/.extraheader || true
+
+      - name: Build And Deploy
+        id: builddeploy
+        uses: Azure/static-web-apps-deploy@v1
+        with:
+          azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_BLACK_COAST_0E76F8910 }}
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          action: "upload"
+          app_location: "/"
+          api_location: ""
+          output_location: "out"
+          app_build_command: 'npm run build-export'
+
+  close_pull_request_job:
+    if: github.event_name == 'pull_request' && github.event.action == 'closed'
+    runs-on: ubuntu-latest
+    name: Close Pull Request Job
+    steps:
+      - name: Close Pull Request
+        id: closepullrequest
+        uses: Azure/static-web-apps-deploy@v1
+        with:
+          azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_BLACK_COAST_0E76F8910 }}
+          action: "close"
+          app_location: "/"

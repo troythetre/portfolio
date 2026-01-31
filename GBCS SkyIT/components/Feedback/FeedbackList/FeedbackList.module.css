@@ -1,0 +1,27 @@
+.tableBorder {
+  padding: 0.5rem 1rem;
+  border-collapse: collapse;
+}
+
+.tableBorderHead{
+  border-bottom: 2px solid #B5B5B5;
+}
+
+.tableBorderBody{
+  border-bottom: 2px solid #4e4e4e;
+}
+
+.textGold {
+  color: #FFE34E;
+}
+
+.fade_in_left {
+  opacity: 0;
+  transform: translateX(-30px);
+  transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+
+.fade_in_left.show {
+  opacity: 1;
+  transform: translateX(0);
+}

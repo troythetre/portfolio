@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.firebase-emulator-warning {
+  display: none;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+th {
+  text-align: left;
+}
+
+.Image {
+  bottom: 141px;
+  position: absolute;
+  left: 70px;
+  padding: 2.5px;
+  gap: 2.5px;
+  border-radius: 40px;
+}
+
+.Image-Tom {
+  bottom: 141px;
+  position: absolute;
+  left: 138px;
+  padding: 2.5px;
+  gap: 2.5px;
+  border-radius: 40px;
+}
+
+.ArrowM {
+  margin-top: 250px;
+  position: absolute;
+  left: 19px;
+  height: 30px;
+  margin-top: 13px;
+
+}
+
+#editableTextArea {
+  display: none;
+  width: 100%;
+  height: 200px;
+}
+
+#editableTextArea.active {
+  display: block;
+}
+
+#editableTextAreaContainer {
+  cursor: pointer;
+}
+
+.custom-select {
+  position: relative;
+  font-family: Arial;
+}
+
+.custom-select select {
+  display: none;
+  /*hide original SELECT element: */
+}
+
+.select-selected {
+  background-color: DodgerBlue;
+}
+
+/* Style the arrow inside the select element: */
+.select-selected:after {
+  position: absolute;
+  content: "";
+  top: 14px;
+  right: 10px;
+  width: 0;
+  height: 0;
+  border: 6px solid transparent;
+  border-color: #fff transparent transparent transparent;
+}
+
+/* Point the arrow upwards when the select box is open (active): */
+.select-selected.select-arrow-active:after {
+  border-color: transparent transparent #fff transparent;
+  top: 7px;
+}
+
+/* style the items (options), including the selected item: */
+.select-items div,
+.select-selected {
+  color: #ffffff;
+  padding: 8px 16px;
+  border: 1px solid transparent;
+  border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+  cursor: pointer;
+}
+
+/* Style items (options): */
+.select-items {
+  position: absolute;
+  background-color: DodgerBlue;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 99;
+}
+
+/* Hide the items when the select box is closed: */
+.select-hide {
+  display: none;
+}
+
+.select-items div:hover,
+.same-as-selected {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.mantine-AppShell-main {
+  padding: 0%;
+}
+
+.icon-container {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.dropdown-menu {
+  background-color: #1a1a1a;
+  /* Dark background to match the theme */
+  border: 1px solid #ccc;
+  padding: 10px;
+  position: absolute;
+  z-index: 10;
+  border-radius: 5px;
+  width: 150px;
+  /* A fixed width to keep the dropdown aligned */
+  color: #f0f0f0;
+  /* Light color for better contrast */
+}
+
+.dropdown-menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.dropdown-menu ul li {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.dropdown-menu ul li:hover {
+  background-color: #333;
+  /* Slightly lighter for hover effect */
+}
+
+.dropdown-menu ul li a {
+  text-decoration: none;
+  color: inherit;
+}

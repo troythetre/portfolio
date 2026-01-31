@@ -1,0 +1,68 @@
+/* styles.css */
+.table-container {
+    position: relative;
+}
+.red-grid-table {
+    border-collapse: collapse;
+    /* width: 100%; */
+    background-color: #1b1a1b;
+    color: white;
+    height: 100%;
+}
+.red-grid-ProposalTable {
+    border-collapse: collapse;
+    width: 80%;
+    background-color: #1b1a1b;
+    color: white;
+    height: 100%;
+}
+
+.red-grid-table th,
+.red-grid-table td {
+    border: 1px solid #b5b5b5;
+    padding: 6px;
+    text-align: center;
+    vertical-align: middle;
+    transition: border-color 0.3s;
+
+    /* max-width: 100px; /* Set a maximum width for the columns */
+    /*overflow: hidden; /* Hide content that exceeds the maximum width */
+    /*white-space: nowrap; /* Prevent text from wrapping */
+}
+/* Remove top border from the first row */
+.red-grid-table thead tr:first-child th {
+    border-top: none;
+}
+
+/* Remove left border from the first column in the tbody */
+.red-grid-table tbody td:first-child,
+.red-grid-table thead tr th:first-child {
+    border-left: none;
+}
+.greyArrow {
+    color: grey;
+    font-size: 2rem;
+    float: right;
+}
+.smallerColumn {
+    width: 150px; /* Adjust the width as needed */
+}
+
+.dropdownButton {
+    color: white;
+    min-width: 570px;
+    height: 40px;
+    /* Replace with your desired text color */
+}
+
+.small-column {
+    width: 5%; /* Adjust the value as needed */
+}
+
+.middel-column {
+    width: 20%;
+}
+
+.large-column {
+    width: 35%; /* Adjust the value as needed */
+}

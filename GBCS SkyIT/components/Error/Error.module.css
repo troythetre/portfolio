@@ -1,0 +1,8 @@
+.button_hover_effect {
+  transition: filter 0.3s ease, transform 0.3s ease;
+}
+
+.button_hover_effect:hover {
+  filter: brightness(1.1);
+  transform: scale(1.02);
+}

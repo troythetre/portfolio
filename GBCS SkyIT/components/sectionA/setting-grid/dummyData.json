@@ -1,0 +1,64 @@
+{
+  "Users": [
+    {
+      "name": "User 1",
+      "email": "user1@example.com",
+      "role": "admin",
+      "permissions": ["can read", "can write", "can add", "can remove"]
+    },
+    {
+      "name": "User 2",
+      "email": "user2@example.com",
+      "role": "user",
+      "permissions": ["can read", "can write"]
+    },
+    {
+      "name": "User 3",
+      "email": "user3@example.com",
+      "role": "user",
+      "permissions": ["can read"]
+    },
+    {
+      "name": "User 4",
+      "email": "user4@example.com",
+      "role": "admin",
+      "permissions": ["can read", "can write", "can add", "can remove"]
+    },
+    {
+      "name": "User 5",
+      "email": "user5@example.com",
+      "role": "user",
+      "permissions": ["can read", "can write"]
+    },
+    {
+      "name": "User 6",
+      "email": "user6@example.com",
+      "role": "user",
+      "permissions": ["can read"]
+    },
+    {
+      "name": "User 7",
+      "email": "user7@example.com",
+      "role": "admin",
+      "permissions": ["can read", "can write", "can add", "can remove"]
+    },
+    {
+      "name": "User 8",
+      "email": "user8@example.com",
+      "role": "user",
+      "permissions": ["can read", "can write"]
+    },
+    {
+      "name": "User 9",
+      "email": "user9@example.com",
+      "role": "user",
+      "permissions": ["can read"]
+    },
+    {
+      "name": "User 10",
+      "email": "user10@example.com",
+      "role": "admin",
+      "permissions": ["can read", "can write", "can add", "can remove"]
+    }
+  ]
+}
