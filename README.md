@@ -12,7 +12,7 @@ This portfolio contains selected **projects, research, and applications** demons
 ## MyCampusGym
 A mobile application enabling college students to design personalized workout and diet plans, with a focus on **structured data models and future personalization workflows**.
 
-**Tech:** Swift, iOS  
+**Tech:** ReactNative, JavaScript
 
 ---
 
