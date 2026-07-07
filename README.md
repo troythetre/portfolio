@@ -74,7 +74,7 @@ Designed meeting state models and built interactive TypeScript UI components wit
 Tested whether pretraining a Soft Actor-Critic agent on Behavioral Cloning weights accelerates learning on a cluttered robotic obstacle-sorting task. Implemented the SAC and BC-warm-started training loops and ran all experiments (400K environment steps per condition); root-caused a gripper-control failure mode via direct inspection of the action-output distribution, driving a fix to the BC policy's architecture.
 
 **Tech:** Python, PyTorch, RLBench, PyRep, CoppeliaSim
-**Repo:** [github.com/troythetre/sac-bc-manipulation](https://github.com/troythetre/sac-bc-manipulation) *(create this repo — see note below)*
+**Repo:** [github.com/troythetre/sac-bc-manipulation](https://github.com/troythetre/sac-bc-manipulation) 
 
 ---
 
