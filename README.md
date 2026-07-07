@@ -48,7 +48,7 @@ A full-stack geospatial analytics platform layering custom analysis on top of th
 **Repo:** [github.com/troythetre/openet-platform](https://github.com/troythetre/openet-platform)
 
 ### 🚌 Electric Bus Fleet Charging Scheduler
-*Cornell M.Eng Capstone, 8-person graduate team | Jan 2026 – Present*
+*Cornell M.Eng Capstone, 8-person graduate team | Jan - May 2026*
 
 A Django + Gurobi system that generates optimized EV fleet charging schedules against real transit data and operational constraints.
 
