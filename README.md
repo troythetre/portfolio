@@ -1,4 +1,4 @@
-# Troy Wu — Technical Portfolio
+# Troy Wu's Technical Portfolio
 
 M.Eng Computer Science student at Cornell University (Expected Dec 2026), focused on backend systems, full-stack engineering, and applied optimization/ML. This portfolio highlights my current professional and academic work.
 
@@ -65,10 +65,19 @@ A Django + Gurobi system that generates optimized EV fleet charging schedules ag
 Designed meeting state models and built interactive TypeScript UI components with real-time RSVP updates, integrated into Zulip's event-driven architecture.
 
 **Tech:** TypeScript, Zulip event system
-**Repo:** [github.com/zulip](https://github.com/ssun00/zulip)
 
 ---
-##Earlier Coursework & Side Projects
 
-Additional coursework projects — including pigeon, a compiler built for Compiler & Interpreter Design — along with earlier mobile apps and class assignments, are available in my repositories.
+### 🤖 Warm-Starting SAC with Behavioral Cloning for Robot Manipulation
+*Cornell CS 5335 — Robot Learning, 3-person team | RLBench / CoppeliaSim*
 
+Tested whether pretraining a Soft Actor-Critic agent on Behavioral Cloning weights accelerates learning on a cluttered robotic obstacle-sorting task. Implemented the SAC and BC-warm-started training loops and ran all experiments (400K environment steps per condition); root-caused a gripper-control failure mode via direct inspection of the action-output distribution, driving a fix to the BC policy's architecture.
+
+**Tech:** Python, PyTorch, RLBench, PyRep, CoppeliaSim
+**Repo:** [github.com/troythetre/sac-bc-manipulation](https://github.com/troythetre/sac-bc-manipulation) *(create this repo — see note below)*
+
+---
+
+## Earlier Coursework & Side Projects
+
+Additional coursework projects — including [`pigeon`](https://github.com/troythetre/pigeon), a compiler built for Compiler & Interpreter Design — along with earlier mobile apps and class assignments, are available in my [repositories](https://github.com/troythetre?tab=repositories).
