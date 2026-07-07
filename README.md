@@ -68,12 +68,7 @@ Designed meeting state models and built interactive TypeScript UI components wit
 **Repo:** [github.com/zulip](https://github.com/ssun00/zulip)
 
 ---
+##Earlier Coursework & Side Projects
 
-## Earlier Projects
+Additional coursework projects — including pigeon, a compiler built for Compiler & Interpreter Design — along with earlier mobile apps and class assignments, are available in my repositories.
 
-- **MyCampusGym** — Mobile app for personalized workout/diet plans (React Native, JavaScript)
-- **Archived (iOS App)** — Cultural platform for independent creatives (Swift, iOS, Backend APIs)
-- **Stock Options Simulation** — Options trading simulator based on put–call parity, with backtesting (Python)
-- **Phase-Locked Loop (PLL) Research** — Nonlinear PLL design procedure and custom Python EDA tool
-- **Basketball Statistics Analysis Tool** — Offline-capable web app for player stats visualization (HTML, JavaScript)
-- **pigeon** — A compiler for the Pigeon language, built for Compiler & Interpreter Design coursework
