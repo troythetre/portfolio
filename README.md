@@ -1,72 +1,78 @@
 # Troy Wu — Technical Portfolio
 
-I am a **Computer Science M.Eng student at Cornell University** with experience in **backend systems, data engineering, and applied machine learning**.  
-This portfolio contains selected **projects, research, and applications** demonstrating my work across software engineering, analytics, and modeling systems.
+M.Eng Computer Science student at Cornell University (Expected Dec 2026), focused on backend systems, full-stack engineering, and applied optimization/ML. This portfolio highlights my current professional and academic work.
 
-📍 Ithaca, NY  
-🔗 GitHub: https://github.com/troythetre  
-🔗 LinkedIn: https://www.linkedin.com/in/wu-troy  
-
----
-
-## MyCampusGym
-A mobile application enabling college students to design personalized workout and diet plans, with a focus on **structured data models and future personalization workflows**.
-
-**Tech:** ReactNative, JavaScript
+📍 Ithaca, NY
+🔗 GitHub: https://github.com/troythetre
+🔗 LinkedIn: https://www.linkedin.com/in/wu-troy
 
 ---
 
-## Archived (iOS App)
-An iOS application built as a cultural platform for independent creatives, emphasizing **community-driven content, media discovery, and engagement**.
+## Professional Experience
 
-**Tech:** Swift, iOS, Backend APIs  
+### Backend Software Engineer Intern — GBCS SkyIT
+*Remote | May – Aug 2025 | Ranked 2nd of 30 interns*
 
----
+Contributed to Voop, an internal RFP management platform, as part of a structured 30-intern program with weekly QA and leadership reviews.
+- Built a PDF export pipeline (Puppeteer + pdf-lib) for the Voop proposal platform
+- Implemented full CRUD REST APIs for a price quote module (Node.js, Express, Prisma ORM, Azure SQL)
+- Debugged and resolved a broken version-restore feature by tracing section version history logic
 
-## Splitz App
-A mobile platform supporting artists and content creators with tools for:
-- Secure split sheet creation  
-- Copyright registration  
-- Music distribution  
-- Blockchain-based payment workflows
-- user-streaming service/social applications connection via Phyllo
+**Tech:** Node.js, Express, Prisma ORM, Azure SQL, Puppeteer, pdf-lib, SendGrid
 
-**Tech:** Mobile Development, Blockchain, Backend Services, TypeScript, ReactNative, React  
+### Mobile Engineer Intern — Splitz
+*Remote | Sep – Dec 2025*
 
----
+Splitz is a fintech startup building underwriting and risk-scoring infrastructure for creator contracts.
+- Built the client-side UI for the underwriting module from scratch in React Native (Expo)
+- Built an end-to-end document ingestion flow (PDF/DOCX/image upload, client-side compression, base64 encoding) posting to a backend API
 
-## 📈 Stock Options Simulation — Shanghai Runchi Investment Fund
-Developed an options trading simulator based on **put–call parity**, integrating real-time market data and backtesting to evaluate strategy performance under varying market conditions.
-
-**Tech:** Python, Financial Modeling, Time-Series Analysis
+**Tech:** React Native (Expo), TypeScript, REST APIs
 
 ---
 
-## Phase-Locked Loop (PLL) Research
-Conducted an in-depth analysis of **nonlinear phase-locked loops**, extending beyond standard linear textbook models.  
-Developed:
-- An optimal PLL design procedure  
-- A custom Python-based EDA tool  
-- A validated GPS local oscillator implementation  
+## Featured Projects
 
-**Tech:** Python, Signal Processing, Applied Mathematics
+### 🌾 OpenET Agricultural Water Use Analysis Platform
+*Cornell M.Eng Research Project, in collaboration with Cornell's School of Integrative Plant Science (NASA-funded) | May 2026 – Present*
+
+A full-stack geospatial analytics platform layering custom analysis on top of the OpenET satellite evapotranspiration API. Built for agricultural water-use monitoring, with a pilot planned on Cornell's campus vineyard.
+
+- Interactive map (Leaflet.js) with polygon/rectangle drawing and 9-point multi-point sampling
+- ET heatmap overlay, NDVI vegetation layer, multi-year comparison charts
+- Seasonal anomaly detection (scikit-learn) with normalized-baseline reporting and CSV export
+- PostgreSQL/PostGIS caching layer with query logging to preserve API quota
+- AI chatbot (Claude API) for natural-language queries over ET data
+
+**Tech:** FastAPI, PostgreSQL + PostGIS, SQLAlchemy, Leaflet.js, Chart.js, scikit-learn, Claude API
+**Repo:** [github.com/troythetre/openet-platform](https://github.com/troythetre/openet-platform)
+
+### 🚌 Electric Bus Fleet Charging Scheduler
+*Cornell M.Eng Capstone, 8-person graduate team | Jan 2026 – Present*
+
+A Django + Gurobi system that generates optimized EV fleet charging schedules against real transit data and operational constraints.
+
+- Built a Django REST API endpoint to bulk-ingest GTFS charging-window datasets into PostgreSQL, feeding the team's Gurobi optimization pipeline
+- Designed a dataset-prefixing scheme to merge multiple GTFS datasets without primary-key collisions, wrapped in atomic transactions
+- Contributed to the core LP scheduler in Python/Gurobi — time-slot duration logic, minimum charging-window constraints, and the discrete-time block library
+
+**Tech:** Django, Python, Gurobi, PostgreSQL
+**PR:** [Block Library — GTFS charging window loader](https://github.com/Zhaoyao999/e-bus-charging-software-2026-Spring/pull/23) *(team repo — see note below)*
+
+### 📅 Zulip Meeting Scheduling System
+*Software Engineering Project | Jan – May 2026*
+
+Designed meeting state models and built interactive TypeScript UI components with real-time RSVP updates, integrated into Zulip's event-driven architecture.
+
+**Tech:** TypeScript, Zulip event system
 
 ---
 
-## Basketball Statistics Analysis Tool
-Built an offline-capable web application to extract and visualize player statistics from interactive game replays, supporting data-driven coaching decisions.
+## Earlier Projects
 
-**Tech:** HTML, JavaScript
-
----
-
-## Logistic Growth Population Model
-Proposed a novel approach to solving **Nth-order nonlinear differential equations**, improving the accuracy and usability of logistic population models.  
-The methodology is extendable to other scientific and modeling domains.
-
-**Tech:** Applied Mathematics, Python
-
----
-
-## 📌 Notes
-Some internship and company projects are **private** 
+- **MyCampusGym** — Mobile app for personalized workout/diet plans (React Native, JavaScript)
+- **Archived (iOS App)** — Cultural platform for independent creatives (Swift, iOS, Backend APIs)
+- **Stock Options Simulation** — Options trading simulator based on put–call parity, with backtesting (Python)
+- **Phase-Locked Loop (PLL) Research** — Nonlinear PLL design procedure and custom Python EDA tool
+- **Basketball Statistics Analysis Tool** — Offline-capable web app for player stats visualization (HTML, JavaScript)
+- **pigeon** — A compiler for the Pigeon language, built for Compiler & Interpreter Design coursework
