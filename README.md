@@ -65,6 +65,7 @@ A Django + Gurobi system that generates optimized EV fleet charging schedules ag
 Designed meeting state models and built interactive TypeScript UI components with real-time RSVP updates, integrated into Zulip's event-driven architecture.
 
 **Tech:** TypeScript, Zulip event system
+**Repo:** [github.com/zulip](https://github.com/ssun00/zulip)
 
 ---
 
